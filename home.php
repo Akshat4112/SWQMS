@@ -69,7 +69,21 @@ include 'includes/layout.inc.php';?>
 
 
 
-</div></div></div>
+
+
+
+
+</div></div>
+
+<div class="row">
+  <div class="col-lg-6">
+
+
+
+
+
+</div>
+</div></div>
 <?php include 'includes/footer.inc.php'; ?>
 
 
