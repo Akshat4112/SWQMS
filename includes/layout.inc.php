@@ -14,9 +14,6 @@
     <!-- AdminLTE Skins. Choose a skin from the css/skins
          folder instead of downloading all of them to reduce the load. -->
     <link href="../dist/css/skins/_all-skins.min.css" rel="stylesheet" type="text/css" />
-
-
-
 <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
 </head>
@@ -35,13 +32,12 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="home.php">Home <span class="sr-only">(current)</span></a></li>
-        <li><a href="import.php">Import</a></li>
+        <li><a href="upload.php">Import</a></li>
         <li><a href="map.php">Map</a></li>
         <li><a href="location.php">Location Overview</a></li>
         <li><a href="charts.php">Charts</a></li>
         <li><a href="alerts.php">Alerts</a></li>   
         <li><a href="reports.php">Reports</a></li>   
-        <li><a href="ytlive.php">Live Video</a></li>   
         <li><a href="account.php">Account</a></li>   
         <li><a href="help.php">Help</a></li>                        
       </ul>
